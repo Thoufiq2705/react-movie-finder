@@ -1,0 +1,10 @@
+/* .movie-container{
+    box-shadow: 2px 2px 20px;
+} */
+.movie-container {
+    border: #E50914;
+    transition: all 0.3s ease-in;
+}
+.movie-container:hover {
+    scale: 1.05;
+}
