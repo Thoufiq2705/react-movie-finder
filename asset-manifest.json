@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-movie-finder/static/css/main.b171edeb.css",
+    "main.js": "/react-movie-finder/static/js/main.b0323483.js",
+    "static/media/Movie App Logo white.png": "/react-movie-finder/static/media/Movie App Logo white.968ccf43e142ee714067.png",
+    "index.html": "/react-movie-finder/index.html",
+    "main.b171edeb.css.map": "/react-movie-finder/static/css/main.b171edeb.css.map",
+    "main.b0323483.js.map": "/react-movie-finder/static/js/main.b0323483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b171edeb.css",
+    "static/js/main.b0323483.js"
+  ]
+}
